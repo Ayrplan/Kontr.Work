@@ -10,8 +10,8 @@
 1. Репозиторий на GitHub: https://github.com/Ayrplan/Kontr.Work.git
 2. Блок-схема: 
 ![Это блок-схема](2023-02-14_12-10-56.jpg)
-3. Файл Readme.md: Readme.md
-4. Решение задачи: Program.cs
+3. Файл Readme.md: https://github.com/Ayrplan/Kontr.Work/blob/main/Readme.md
+4. Решение задачи: https://github.com/Ayrplan/Kontr.Work/blob/main/Program.cs
 * Ввод данных массива и формирования массива строк происходит с участием разделителя между элементами ", "
 * Оператором является .Split.
 
