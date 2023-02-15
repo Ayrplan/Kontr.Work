@@ -366,4 +366,4 @@ bin/Debug/net6.0/Sem.5. Функции и массивы.exe
 bin/Debug/net6.0/Sem.5. Функции и массивы.pdb
 bin/Debug/net6.0/Sem.5. Функции и массивы.runtimeconfig.json
 Sem.5. Функции и массивы.csproj
-*.jpg
+# *.jpg
