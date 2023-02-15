@@ -20,4 +20,4 @@
 * string[] inArr = strLine.Split(", ");
 * string[] outArr = new  string[0];   
 * resultJoin = string.Join(",", inArr); 
-5. Коммиты: 
+5. Коммиты: https://github.com/Ayrplan/Kontr.Work/commits/main
